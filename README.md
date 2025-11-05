@@ -9,7 +9,7 @@ From problem identification to model creation and deployment, you’ll walk thro
 
 ✅ What You’ll Learn:
 
-• How to identify real-world AI problems and match them to the right ML type — Supervised, Unsupervised, or Semi-Supervised
+ - How to identify real-world AI problems and match them to the right ML type — Supervised, Unsupervised, or Semi-Supervised
 
 • Difference between Classification and Regression with examples
 
