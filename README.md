@@ -10,26 +10,17 @@ From problem identification to model creation and deployment, you’ll walk thro
 ✅ What You’ll Learn:
 
  - How to identify real-world AI problems and match them to the right ML type — Supervised, Unsupervised, or Semi-Supervised
+ - Difference between Classification and Regression with examples
+ - Step-by-step process of creating, training, and testing ML models
+ - Deep dive into Simple Linear Regression (SLR) and Multiple Linear Regression (MLR)
+ - How to measure model performance using SSE, SSR, SST, R², and Adjusted R²
+ - Build your first Machine Learning workflow — from Problem Identification → Model Creation → Deployment
+ - Understanding training vs testing data and why both are crucial
+ - Hands-on practice with simple liner , multiple linear ,Decision Tree, Random Forest, SVM, and Boosting algorithms
+ - How to use GridSearchCV and Cross Validation to select the best model
+ - Learn how to save, reload, and deploy models with preprocessed input/output data with hands-on assignment 
 
-• Difference between Classification and Regression with examples
-
-• Step-by-step process of creating, training, and testing ML models
-
-• Deep dive into Simple Linear Regression (SLR) and Multiple Linear Regression (MLR)
-
-• How to measure model performance using SSE, SSR, SST, R², and Adjusted R²
-
-• Build your first Machine Learning workflow — from Problem Identification → Model Creation → Deployment
-
-• Understanding training vs testing data and why both are crucial
-
-• Hands-on practice with simple liner , multiple linear ,Decision Tree, Random Forest, SVM, and Boosting algorithms
-
-• How to use GridSearchCV and Cross Validation to select the best model
-
-• Learn how to save, reload, and deploy models with preprocessed input/output data with hands-on assignment 
-
-Strengthening understanding through MCQs, exercises, and agent-based case studies
+-- Strengthening understanding through MCQs, exercises, and agent-based case studies
 
 This week, you’ll step into the real world of coding with Python — the most loved and beginner-friendly programming language used in Artificial Intelligence, Data Science, and Automation.
 
