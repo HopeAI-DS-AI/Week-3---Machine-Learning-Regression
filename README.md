@@ -1,4 +1,4 @@
-# Week 3 - Machine Learning - Regression
+# Week 3 -- Machine Learning - Regression
 
 This week, you’ll enter the real engine room of Artificial Intelligence — Machine Learning (ML).
 
