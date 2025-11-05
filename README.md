@@ -6,6 +6,7 @@ You’ll learn how machines understand data, identify patterns, and make predict
 
 From problem identification to model creation and deployment, you’ll walk through every phase of building a working ML project
 ~
+
 ✅ What You’ll Learn:
 
 • How to identify real-world AI problems and match them to the right ML type — Supervised, Unsupervised, or Semi-Supervised
